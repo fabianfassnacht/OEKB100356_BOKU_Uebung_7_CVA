@@ -2,6 +2,8 @@ OEKB100356 Einführung in die Fernerkundung - Tag 7 - Change Vector Analyse
 
 **Autoren:** Dieses Tutorial wurde von Fabian Fassnacht entwickelt.
 
+ACHTUNG: Dies ist ein optionales Tutorial, mit dem Sie Zusatzpunkte erreichen können. Die Abgabe ist nicht verpflichtend.
+
 ### Lernziele
 
 Während diesem Tutorial werden Sie lernen wie man eine Change Vector Analyse in R durchführt. Darüber hinaus besteht dieses Mal die Hauptaufgabe darin den zur Verfügung gestellten Code selbst zu verstehen und zu kommentieren - sie können dabei unter anderem auch auf die Hilfefunktion von R zurückgreifen.
