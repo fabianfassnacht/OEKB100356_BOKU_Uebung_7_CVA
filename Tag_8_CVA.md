@@ -1,7 +1,6 @@
-﻿Fernerkundung in der Landschaftsplanung - Tag 8 - Change Vector Analyse
+OEKB100356 Einführung in die Fernerkundung - Tag 7 - Change Vector Analyse
 
 **Autoren:** Dieses Tutorial wurde von Fabian Fassnacht entwickelt.
-
 
 ### Lernziele
 
@@ -13,7 +12,7 @@ Die für dieses Tutorial benötigten Daten können Sie hier herunterladen:
 
 https://drive.google.com/drive/folders/1Jp8axKkdJJoBphA6hmRcWiRbJAJhocMO?usp=sharing
 
-Laden sie die gepackten Dateien sowie das geopackage-file herunter und kopieren und entpacken Sie sie in einen Ordner, den sie wieder finden können (unten im Code heisst dieser E:/Daten/). Die Daten umfassen Landsat-Daten von La Palma vor und nach dem Vulkanausbruch im Jahr 2021. Dazu ist noch ein gpkg-Layer enthalten, der die grobe Lage von La Palma wiederspiegelt.
+Laden Sie die gepackten Dateien sowie das geopackage-file herunter und kopieren und entpacken Sie sie in einen Ordner, den Sie wieder finden können (unten im Code heisst dieser E:/Daten/). Die Daten umfassen Landsat-Daten von La Palma vor und nach dem Vulkanausbruch im Jahr 2021. Dazu ist noch ein gpkg-Layer enthalten, der die grobe Lage von La Palma wiederspiegelt.
 
 
 ### Change Vector Analyse
@@ -127,6 +126,5 @@ Hier kommt nun der Code für heute, der die Grundlage des Tutorials darstellt:
 
 ### Hausaufgabe
 
-Geben Sie das von Ihnen verfasste Tutorial für den obenstehenden Code mit Abbildungen als Word-Datei oder PDF ab. Sie haben dafür zwei Wochen Zeit. Dies ist auch gleichzeitig die letzte Hausaufgabe. Nächste Woche werden wir noch ein Tutorial mit einer kleinen Einführung in die Verarbeitung von Laserscanningdaten in R bearbeiten.
+Geben Sie das von Ihnen verfasste Tutorial für den obenstehenden Code mit Abbildungen als Word-Datei oder PDF ab. 
 
-Den letzten Übungstermin können Sie dafür verwenden an der finalen Abgabe zu arbeiten und Rückfragen diesbezüglich zu stellen.
